@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
@@ -77,3 +78,19 @@ To learn more about React Native, take a look at the following resources:
 - [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
 - [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
 - [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+=======
+# Reminderme
+Build a reminder app in React Native
+1. Project Set up - 100%
+2. Navigation - 100%
+3. Main View
+4. Add reminder
+5. View reminder
+6. Local Storage
+7. Notification
+8. State Management
+9. Styling
+10. Eror handling
+11. Documentation
+12. Deployment
+>>>>>>> origin/main
