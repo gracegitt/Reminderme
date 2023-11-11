@@ -1,7 +1,7 @@
 # Reminderme
 Build a reminder app in React Native
-1. Project Set up - 100%
-2. Navigation - 100%
+1. Project Set up  100%
+2. Navigation  100%
 3. Main View
 4. Add reminder
 5. View reminder
